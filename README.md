@@ -1,1 +1,1 @@
-# .github
+# We are Majin Technologies!
